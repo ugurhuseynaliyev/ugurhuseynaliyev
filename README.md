@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ugur Huseynaliyev</h1>
 <h3 align="center">🌟 Passionate Frontend Developer from Azerbaijan 💻 Currently mastering frontend technologies, aiming to become a Fullstack Developer 🚀 Always learning and building new projects</h3>
 
