@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ugur-huseynaliyev-562038278/?skipredirect=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ugur-huseynaliyev-562038278/?skipredirect=true" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ugurhuseynaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ugurhuseynaliyev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ugur06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ugur06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@huseyneliyevugu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@huseyneliyevugu1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/huseyneliyevugu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@huseyneliyevugu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
